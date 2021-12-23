@@ -1,0 +1,114 @@
+*{margin:0;}
+
+::-webkit-scrollbar{ width:15px;
+                    background-color:rgb(61, 58, 253);}
+
+::-webkit-scrollbar-thumb{ background:orange;
+                         
+                           }
+
+                           html{ scroll-behavior: smooth;}
+
+
+
+
+
+
+ul{ background-color: NONE;
+ list-style: none;
+ margin: 0%;
+ height: 50px;
+ line-height: 50px;
+ font-size: 18px;
+ font-family: 'Modern Antiqua', cursive;
+ color:white;
+  font-weight: bolder;}
+
+
+
+
+ li{float: right;
+    }
+
+    a{ display: block;
+      padding: 0 30px;
+      text-decoration: none;
+      color: white;
+       
+      }
+      .NBT{ float: left;
+            font-size: 30px;
+           }
+
+
+           a:hover{ color: orange;}
+
+ body{
+      background-size: 100%;}
+
+
+
+      .Hi{ font-size: 20px;
+           font-family: 'Modern Antiqua', cursive;
+            font-weight: bold;
+           color: white;}
+
+
+
+       .Hi3{ font-family:'Modern Antiqua', cursive;
+               font-size: 80px;
+             font-weight: bolder;
+           color:orange;}
+
+
+           .Wert{font-family: 'Modern Antiqua', cursive;
+               font-size: 30px;
+             font-weight: bold;
+           color: white; }
+
+
+          .Hi2{  padding-left: 100px;
+                padding-top: 180px;
+               height: 400px;}
+
+
+                .Hi5{color:yellow;
+                     font-weight: bolder;}
+
+
+
+
+                     .xavier{
+                             padding-left: 100px;
+                            border-radius: 10px 10px;}
+
+                            .para{color: transparent;
+                                  position: absolute;
+                                  }
+
+                                 
+
+
+
+                            @media(max-width: 1180px) {
+                              
+                                .desktop {display:none;}
+
+                                
+
+                               
+                                body{ background: none;}
+
+                               .para{ color:rgba(0, 0, 0, 10);
+                                      font-size: 300%;
+                                     
+                                      }
+                              
+
+                                
+
+                                  
+                              }
+                            }
+
+                     
